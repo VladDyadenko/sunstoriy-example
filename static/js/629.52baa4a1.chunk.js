@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksunstoriy_example=self.webpackChunksunstoriy_example||[]).push([[629],{6629:(e,n,s)=>{s.r(n),s.d(n,{default:()=>c});var r=s(7095),a=s(184);const c=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(r.Z,{children:(0,a.jsx)("h3",{children:"FinancialPage"})})})}}}]);
+//# sourceMappingURL=629.52baa4a1.chunk.js.map
